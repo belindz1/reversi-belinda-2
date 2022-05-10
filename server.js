@@ -1,5 +1,3 @@
-server.js
-
 /**********************************/
 /* set up the static file server */
 let static = require('node-static');
